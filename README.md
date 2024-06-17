@@ -20,4 +20,7 @@ pip install -r requirements.txt
 python3 ./main.py
 ```
 
+You can also use the nRF Connect app for Android or iOS to connect.
+https://www.nordicsemi.com/Products/Development-tools/nRF-Connect-for-mobile
+
 Special thanks to Luis and the team at Croxel for the CX1825!
